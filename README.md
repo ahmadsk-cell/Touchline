@@ -18,8 +18,8 @@ asset from a release, not the "Source code" archives GitHub adds automatically.
   salary budgets, with one switch to turn it off
 - Form arcs and long-term coaching that make small, earned changes in the running game
 - Reads your save and never edits it; Football Life still writes it itself
-- In English, Spanish, Portuguese, French, Italian, Russian, Indonesian, Turkish
-  and Vietnamese (Settings > Presentation > Language), stories and letters
+- In English, Spanish, Portuguese, French, Italian, Russian, Indonesian, Turkish,
+  Vietnamese and Thai (Settings > Presentation > Language), stories and letters
   included
 
 ## Before you install
