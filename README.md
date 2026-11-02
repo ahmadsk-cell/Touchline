@@ -1,6 +1,6 @@
 # Touchline
 
-A free Master League companion for SP Football Life 2026. It runs in its own
+A free Master League companion for SP Football Life 2026 and 2027. It runs in its own
 window beside the game, reads your career save and builds the world around it.
 
 **[Download the latest release](https://github.com/ahmadsk-cell/Touchline/releases/latest)** ·
@@ -24,8 +24,8 @@ asset from a release, not the "Source code" archives GitHub adds automatically.
 
 ## Before you install
 
-- Football Life 2026. Live features need version 1.4; other versions still get
-  everything built from your save.
+- Football Life 2026 or 2027. Live features need FL26 version 1.4 or FL27; other
+  versions still get everything built from your save.
 - Sider, with the game started through it
 - A Master League career saved at least once
 - Windows 10 or 11
