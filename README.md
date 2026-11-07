@@ -38,7 +38,7 @@ asset from a release, not the "Source code" archives GitHub adds automatically.
 3. Run `TouchlineSetup.exe` and follow the
    [install guide](https://askandalus.com/downloads/touchline/install-guide.html).
 
-Setup adds a TouchlineCompanion folder and three small Sider scripts, backs up
+Setup adds a TouchlineCompanion folder and its small Sider scripts, backs up
 `sider.ini` before switching those scripts on, and switches off `BudgetSetter.lua`
 if you have it, since the two conflict. It never deletes anything and never
 overwrites your own files.
