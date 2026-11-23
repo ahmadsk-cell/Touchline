@@ -20,8 +20,8 @@ asset from a release, not the "Source code" archives GitHub adds automatically.
   patience and the transfer market, all changed for real in the running game
 - Reads your save, and writes a deal into it only when you ask, after backing it up
 - In English, Spanish, Portuguese, French, Italian, German, Polish, Russian, Indonesian,
-  Turkish, Vietnamese, Thai, Arabic and Japanese (Settings > Presentation > Language),
-  stories and letters included
+  Turkish, Vietnamese, Thai, Arabic, Japanese, Korean and Greek (Settings > Presentation >
+  Language), stories and letters included
 
 ## Before you install
 
